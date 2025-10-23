@@ -1,2 +1,2 @@
 # net-architecture
-A .NET solution that displays the arhitecture I prefer
+A .NET solution that displays the architecture I prefer
